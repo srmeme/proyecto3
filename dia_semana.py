@@ -1,5 +1,8 @@
+from datetime import datetime
+
 def run():
-    pass
+    # pass
+    print(datetime.today().weekday())
 
 
 if __name__ == "__main__":
